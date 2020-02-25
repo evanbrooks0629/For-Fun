@@ -7,8 +7,8 @@ import scipy.interpolate as si
 
 
 def menu():
-    email = 'evan.brooks@mynbps.org'
-    pw = 'EvanSoccer$34$'
+    email = 'YOUR EMAIL OR USERNAME'
+    pw = 'YOUR PASSWORD'
     membean(email, pw)
 
 
