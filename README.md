@@ -1,6 +1,5 @@
-# For-Fun
-Just some fun projects I randomly work on
+# Membean Bot
 
-I'd like to use this as a portfolio-like page to show some of the projects I have completed
+A project I made to help make my membean sessions a little lighter...
 
-If you have any code suggestions or advice, feel free to make a request. Other ideas are always appreciated!
+There is something wrong where it says there are dubious minutes as well as cheating detected on the user's dashboard, so I'm still trying to work that out.
